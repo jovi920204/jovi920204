@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React and Node.js to enhance my web development skills.
 - 👯 I’m looking to collaborate on open-source machine learning and computer vision projects.
 - 💬 Ask me about machine learning, deep learning, and web development.
-- 📫 How to reach me: [jovi920204@gmail.com](mailto:jovi920204@gmail.com) | [LinkedIn](https://linkedin.com/in/jui-lin-chang) | [GitHub](https://github.com/jovi920204)
+- 📫 How to reach me: [jovi920204@gmail.com](mailto:jovi920204@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jui-lin-chang-2345bb248/) | [GitHub](https://github.com/jovi920204)
 
 ## Skills
 - **Languages:** C/C++, Python, Javascript

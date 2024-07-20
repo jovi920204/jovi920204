@@ -14,11 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovi920204&layout=donut&theme=shadow_blue&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovi920204&repo=Malware-Classification-with-Deep-and-Machine-Learning)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovi920204&repo=Printer-Account-Management-System)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovi920204&repo=Syntax-Analyzer
-)](https://github.com/anuraghazra/github-readme-stats)
-
-## Activity Graph
-[![Jovi920204's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jovi920204&bg_color=FFFFFF&line=96B6C5&color=352F44&area_color=ADC4CE&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovi920204&repo=Malware-Classification-with-Deep-and-Machine-Learning)](https://github.com/jovi920204/Malware-Classification-with-Deep-and-Machine-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovi920204&repo=Printer-Account-Management-System)](https://github.com/jovi920204/Printer-Account-Management-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovi920204&repo=NTUST-CSIE-Course-Work-Project
+)](https://github.com/jovi920204/NTUST-CSIE-Course-Work-Project)
